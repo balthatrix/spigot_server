@@ -117,3 +117,10 @@
 [16:46:09] [Server thread/INFO]: Opped 1d20
 [16:46:17] [User Authenticator #1/INFO]: UUID of player 1d20 is 535fbf27-9fe5-4130-ba50-a377b927cbb6
 [16:46:17] [Server thread/INFO]: 1d20[/127.0.0.1:58695] logged in with entity id 59 at ([world]-117.09712495988404, 64.0, 85.61553818776751)
+[16:47:13] [Server thread/INFO]: 1d20 issued server command: //wand
+[16:47:20] [Server thread/INFO]: 1d20 issued server command: //copy
+[16:48:02] [Server thread/INFO]: 1d20 issued server command: //schem save testtest
+[16:48:02] [Server thread/INFO]: [WorldEdit] 1d20 saved /Users/k0d1g0sys/Desktop/spigot/plugins/WorldEdit/schematics/testtest.schematic
+[16:48:41] [Server thread/INFO]: 1d20 issued server command: //schem load testtest
+[16:48:41] [Server thread/INFO]: [WorldEdit] 1d20 loaded /Users/k0d1g0sys/Desktop/spigot/plugins/WorldEdit/schematics/testtest.schematic
+[16:48:50] [Server thread/INFO]: 1d20 issued server command: //paste
